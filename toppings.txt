@@ -2,3 +2,4 @@ toppings
 
 cheese
 mushrooms
+olives
